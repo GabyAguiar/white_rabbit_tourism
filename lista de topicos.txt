@@ -1,0 +1,26 @@
+Lista de destinos com promoção:
+- Argentina
+- Portugal
+- Porto de Galinhas
+- Alter do Chão
+- Gramado
+- Rio de Janeiro
+
+Lista de destinos sem promoção:
+- Disney
+- Japão
+- Egito
+- Maranhão
+- Itália
+- Australia
+- Noruega
+- Foz do Iguaçu
+- Fernanado de Noronha
+
+Topicos dos detalhes de cada pacote de viagem:
+- Conheça o destino = id: destino
+- Descrição do pacote = id: pacote
+- Valor inclui = id: incluso
+- Valor não inclui = id: excluso
+- Observações = id: observacoes
+- Detalhes da viagem (datas de ida e volta, valor do pacote de acordo com a qtd de pessoas, parcelamentos disponiveis) = id: detalhes
